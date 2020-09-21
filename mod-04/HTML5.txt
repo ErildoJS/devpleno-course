@@ -1,0 +1,20 @@
+a maioria dos browsers tem padroes
+
+padrao de vicio - onde o broser viola as especificaçoes da web pra evitar quebra de codigo
+modo quase padroes - 
+modo de padroes - o browser segue as especificsçoes da linguagem 
+
+
+no HTML 5 o modo de padores foi chamado modo sem vicios
+onde conseguimos sempre o melhor resultado
+
+ex: <DOCTYPE html>
+
+
+nunca deve existir nada antes do doctype
+
+
+<head> - informa os metadados pro documento
+
+rss - indica que tem um feed no seu site
+

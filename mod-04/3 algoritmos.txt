@@ -1,0 +1,32 @@
+Algoritmo nota
+var nota, restante: real;
+
+inicio:
+escreva "por favor , informe sua nota"
+leia nota
+restante <- 60 - nota
+escreva "vc precisa de ", restante, "pontos"
+
+
+Algoritmo leia temperatura em celcius e converta para fahrenheit
+formula temperatura(celcius * 9/5) + 32
+
+var tcelcius, tf: real
+
+inicio:
+escreva "por fvor informe a temperatura e, celcius"
+leia tcelcius
+
+tempF <- (tcelcius * 9/5) + 32
+escreva "a temperatura ", tcelcius, " celcius é", tempF, "em fahrenheit"
+
+Algoritmo que converte distancia de km para milhas(1km = 0,621371 milhas)
+
+var km, milhas: real
+inicio:
+
+escreva "informe a distancia em km"
+leia km
+
+milhas <- km * 0.621371
+escreva "a distancia ", km, "km é ", milhas , "milhas"

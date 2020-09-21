@@ -1,0 +1,8 @@
+Exercício para pensar de forma computacional:
+=============================================
+
+1. Pensar de forma estruturada (usando pensamento computacional) como trocar o pneu de um carro
+2. Pensar de forma estruturada (usando pensamento computacional) como lavar a louça
+
+Material extra:
+https://youtu.be/VEwRsgAG8JE

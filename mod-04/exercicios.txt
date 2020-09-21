@@ -1,0 +1,17 @@
+Exercícios Pseudo-código
+========================
+
+Considerações: vimos na aula a operação de soma. Para a realização destes exercícios, considere os seguintes operadores também:
+
+  + soma
+  - subtração
+  / divisão
+  * multiplicação
+
+Exercício 1​: em uma escola, para um aluno passar em uma disciplina ele precisa de 60 pontos. Crie um algoritmo em pseudo-código que o aluno insira sua nota (sempre será menor de 60) e retorne quantos pontos ele precisa para chegar aos 60.
+
+Exercício 2: construa um algoritmo em pseudo-código que leia 4 números do usuário e calcule a média aritmética entre eles.
+
+Exercício 3: construa um algoritmo em pseudo-código que leia uma temperatura em celsius e converta para fahrenheit​. A formula para conversão é a seguinte: (temperaturaEmCelsius * 9/5) + 32
+
+Exercício 4: construa um algoritmo em pseudo-código que leia uma distância em quilômetros e a converta para milhas. Sabe-se que 1km = 0,621371​ milhas.
